@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="Selfie">
+  <path fill="#e5b222" d="M20 6V4a2 2 0 012-2H36a2 2 0 012 2V6zM20 32v2a2 2 0 002 2H36a2 2 0 002-2V32z" class="colorced4e0 svgShape"></path>
+  <path fill="#ff8066" d="M24,36v5a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V36Z" class="color7a7b7d svgShape"></path>
+  <rect width="6" height="12" x="26" y="42" fill="#e5b222" class="colorced4e0 svgShape"></rect>
+  <path fill="#ff8066" d="M24,55v7H34V55a1,1,0,0,0-1-1H25A1,1,0,0,0,24,55Z" class="color7a7b7d svgShape"></path>
+  <path fill="#ffffff" d="M33,54H26v2.75A3.25,3.25,0,0,0,29.25,60H34V55A1,1,0,0,0,33,54Z" opacity=".05" class="colorffffff svgShape"></path>
+  <path fill="#ffffff" d="M29.125,44H32a0,0,0,0,1,0,0V54a0,0,0,0,1,0,0H27a0,0,0,0,1,0,0V46.125A2.125,2.125,0,0,1,29.125,44Z" opacity=".3" class="colorffffff svgShape"></path>
+  <path fill="#ffffff" d="M34,41V37H28.054A2.055,2.055,0,0,0,26,39.054V42h7A1,1,0,0,0,34,41Z" opacity=".05" class="colorffffff svgShape"></path>
+  <rect width="52" height="26" x="2" y="6" fill="#efebea" rx="2" class="coloreaebef svgShape"></rect>
+  <path fill="#f56f54" d="M4,6A2,2,0,0,0,2,8V30a2,2,0,0,0,2,2H48V6Z" class="color5490f5 svgShape"></path>
+  <path fill="#fbc6bb" d="M11 15H9V11a1 1 0 011-1h4v2H11zM41 15H39V12H36V10h4a1 1 0 011 1zM14 28H10a1 1 0 01-1-1V23h2v3h3zM40 28H36V26h3V23h2v4A1 1 0 0140 28z" class="colorbbd3fb svgShape"></path>
+  <rect width="4" height="4" x="54" y="17" fill="#ff8066" class="color7a7b7d svgShape"></rect>
+  <path fill="#efebea" d="M58,28H54V26h4a3,3,0,0,0,0-6V18a5,5,0,0,1,0,10Z" class="coloreaebef svgShape"></path>
+  <path d="M9 11v4h2V12h3V10H10A1 1 0 009 11zM40 10H36v2h3v3h2V11A1 1 0 0040 10zM11 23H9v4a1 1 0 001 1h4V26H11zM39 26H36v2h4a1 1 0 001-1V23H39z" fill="#1b1b1b" class="color000000 svgShape"></path>
+  <path d="M59,18.1V17a1,1,0,0,0-1-1H55V8a3,3,0,0,0-3-3H39V4a3,3,0,0,0-3-3H22a3,3,0,0,0-3,3V5H4A3,3,0,0,0,1,8V30a3,3,0,0,0,3,3H19v1a3,3,0,0,0,3,3h1v4a2,2,0,0,0,2,2V53a2,2,0,0,0-2,2v7a1,1,0,0,0,1,1H34a1,1,0,0,0,1-1V55a2,2,0,0,0-2-2V43a2,2,0,0,0,2-2V37h1a3,3,0,0,0,3-3V33H52a3,3,0,0,0,3-3V28h3a5,5,0,0,0,1-9.9ZM57,18v2H55V18ZM21,4a1,1,0,0,1,1-1H36a1,1,0,0,1,1,1V5H21ZM3,30V8A1,1,0,0,1,4,7H47V31H4A1,1,0,0,1,3,30ZM33,61H25V55h8Zm-2-8H27V43h4Zm2-12H25V37h8Zm4-7a1,1,0,0,1-1,1H22a1,1,0,0,1-1-1V33H37Zm16-4a1,1,0,0,1-1,1H49V7h3a1,1,0,0,1,1,1Zm5-4H55V22h3a1,1,0,0,0,1-1v-.816A2.993,2.993,0,0,1,58,26Z" fill="#1b1b1b" class="color000000 svgShape"></path>
+</svg>
