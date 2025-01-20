@@ -9,8 +9,8 @@ export default {
         "white-custom": "#FCFBF7",
       },
       backgroundImage: {
-        pattern: "url(./assets/img/pattern.png)",
-        mekah: "url(./assets/img/mekah.jpg)",
+        pattern: "url(./pattern.png)",
+        mekah: "url(./mekah.jpg)",
       },
     },
     fontFamily: {
