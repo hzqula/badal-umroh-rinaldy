@@ -1,3 +1,4 @@
+import Daftar from "./layouts/Daftar";
 import Fasilitas from "./layouts/Fasilitas";
 import Header from "./layouts/Header";
 import Hero from "./layouts/Hero";
@@ -12,6 +13,7 @@ const App = () => {
       <Sekilas />
       <Fasilitas />
       <Pelaksana />
+      <Daftar />
     </>
   );
 };

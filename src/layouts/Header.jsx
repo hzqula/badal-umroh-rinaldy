@@ -35,10 +35,7 @@ const Header = () => {
           <a href="https://www.instagram.com/riinaaldy/" target="_blank">
             <InstagramIcon className="text-base-yellow" />
           </a>
-          <a
-            href="https://wa.me/+6285243287678?text=Hello%20World."
-            target="_blank"
-          >
+          <a href="https://wa.me/+6285243287678" target="_blank">
             <WhatsappIcon className="text-base-yellow" />
           </a>
           <a href="">

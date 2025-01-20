@@ -5,7 +5,7 @@ const SubTitle = ({ children, className }) => {
   return (
     <h2
       className={cn(
-        "w-4/5 text-lg font-semibold mb-2 tracking-tight text-center",
+        "w-4/5 text-base sm:text-lg font-semibold mb-2 tracking-tight text-center",
         className
       )}
     >
